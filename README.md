@@ -12,7 +12,6 @@
 <p align="center" width="100%">
 	<img src="https://skillicons.dev/icons?i=ts"/>
 	<img src="https://skillicons.dev/icons?i=lua"/>
-	<img src="https://skillicons.dev/icons?i=luau"/>
 	<img src="https://skillicons.dev/icons?i=python"/>
 	<img src="https://skillicons.dev/icons?i=react"/>
 <p/>
